@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Botas Northface",
+    "description": "Botas para la nieve",
+    "code": "1257",
+    "price": 2500,
+    "status": true,
+    "stock": 14,
+    "category": "Zapatos Y Botas",
+    "thumbnail": "imagen 1"
+  },
+  {
+    "id": 2,
+    "title": "Mochila de senderismo",
+    "description": "Mochila de senderismo DS 18 litros",
+    "code": "0002",
+    "price": 6050,
+    "status": true,
+    "stock": 9,
+    "category": "Bolsos Y Mochilas",
+    "thumbnail": "imagen 2"
+    
+  },
+  {
+    "id": 3,
+    "title": "Paleta de Ping Pong PRP-200",
+    "description": "Paleta de pingo pong profesional",
+    "code": "9283",
+    "price": 150,
+    "status": true,
+    "stock": 7,
+    "category": "Deportes",
+    "thumbnai": "imagen 3"
+  },
+  {
+    "id": 4,
+    "title": "Cuerda Antidote",
+    "description": "Cuerda para escalada 10.2mm x 50mt",
+    "code": "7283",
+    "price": 1300,
+    "status": true,
+    "stock": 10,
+    "category": "Equipamiento",
+    "thumbnail": "imagen 4"
+  },
+  {
+    "id": 5,
+    "title": "Barra Protein Chocolate",
+    "description": "barra con 24g de proteina sin azucar añadida",
+    "code": "a298",
+    "price": 120,
+    "status": true,
+    "stock": 25,
+    "category": "Snacks",
+    "thumbnail": "imagen 5"
+  }
+]

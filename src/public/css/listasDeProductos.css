@@ -6,19 +6,13 @@
 
 .contenedorListaDinamica {
   width: 100vw;
-  height: 90vh;
-  background: linear-gradient(63deg, #999 23%, transparent 23%) 7px 0,
-    linear-gradient(63deg, transparent 74%, #999 78%),
-    linear-gradient(63deg, transparent 34%, #999 38%, #999 58%, transparent 62%),
-    #444;
+  min-height: 100vh;
+  background: #7dc4bc;
   background-size: 16px 48px;
   position: relative;
 }
 .listaEstaticaContainer {
-  background: linear-gradient(135deg, #79a7d3 25%, transparent 25%) -50px 0,
-    linear-gradient(225deg, #79a7d3 25%, transparent 25%) -50px 0,
-    linear-gradient(315deg, #79a7d3 25%, transparent 25%),
-    linear-gradient(45deg, #79a7d3 25%, transparent 25%);
+  background: rgb(58, 56, 84);
   background-size: 100px 100px;
   background-color: #8a307f;
 }

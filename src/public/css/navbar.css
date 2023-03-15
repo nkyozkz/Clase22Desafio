@@ -6,6 +6,13 @@
   overflow-x: hidden;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.logo{
+  color: beige;
+  font-size: 2rem;
+  margin-left: 2rem;
+}
+
 .navbarGeneral {
   width: 100vw;
   height: 10vh;

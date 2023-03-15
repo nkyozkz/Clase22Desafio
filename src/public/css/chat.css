@@ -182,10 +182,12 @@
 }
 /* botonEnviar */
 .enviarMensaje{
-  border-radius: 2vw;
+  font-size: 1.2rem;
+  background-color: rgb(114, 232, 103);
+  border-radius: 1vw;
   cursor: pointer;
   transition: all .5s;
 }
 .enviarMensaje:hover{
-  transform: scale(1.2);
+  transform: scale(2);
 }

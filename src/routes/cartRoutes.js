@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 import { cartsModel } from "../dao/models/cartsModel.js";
 import { productsModel } from "../dao/models/productsModel.js";
 const router = Router();
-// import carrito from "../dao/filesystem/manangers/cartManager.js";
+// import carrito from "../dao/filesystem/managers/cartManager.js";
 // import productosEnBd from "../dao/filesystem/managers/productManager.js";
 // const productMananger=productosEnBd
 

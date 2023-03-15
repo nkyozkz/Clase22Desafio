@@ -17,9 +17,9 @@ import passport from "passport";
 import initializePassport from "./config/passportConfig.js";
 dotenv.config();
 
-// import productosEnEmpresa from "./dao/filesystem/manangers/productMananger.js";
-// const productMananger = productosEnEmpresa;
-// let data = await productMananger.getProducts();
+// import productosEnBd from "./dao/filesystem/managers/productManager.js";
+// const productMananger = productosEnBd;
+// let data = await productManager.getProducts();
 
 const app = express();
 app.use(

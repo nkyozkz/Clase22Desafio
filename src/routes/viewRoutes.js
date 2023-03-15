@@ -1,12 +1,12 @@
 import express from "express";
 import mongoose from "mongoose";
 const router = express.Router();
-import productosEnEmpresa from "../dao/filesystem/manangers/productMananger.js";
+//import productosEnEmpresa from "../dao/filesystem/managers/productManager.js";
 import { productsModel } from "../dao/models/productsModel.js";
 import { cartsModel } from "../dao/models/cartsModel.js";
 import { actualizarPagina } from "../public/js/funcionActualizaLinks.js";
 import { verificarAdmin } from "../public/js/verificarAdmin.js";
-const productMananger = productosEnEmpresa;
+//const productManager = productosEnBd;
 
 let auth= async(req, res, next)=> {
   if (await req.session?.user) return next();

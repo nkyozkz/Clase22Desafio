@@ -4,7 +4,7 @@ import { actualizarPagina } from "../public/js/funcionActualizaLinks.js";
 import mongoose from "mongoose";
 
 // import productosEnBd from "../dao/filesystem/managers/productManager.js";
-// const productMananger = productosEnBd;
+// const productManager = productosEnBd;
 
 const router = Router();
 
